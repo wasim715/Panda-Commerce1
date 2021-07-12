@@ -1,0 +1,34 @@
+.container{
+    margin-bottom: 40px;
+}
+
+.Name{
+    border-radius: 1px;
+    color: white;
+    border: 1px solid tomato;
+    background-color: lightblue;
+    transform: rotate(30deg);
+    transition: transform 1s ease-in-out 1s;
+}
+.bg-color{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+.price{
+    color: #FF136F;
+}
+.buy{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    height: 50px;
+}
+a{
+    left: 500px;
+}
