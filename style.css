@@ -32,3 +32,52 @@
 a{
     left: 500px;
 }
+.cat1{
+    background-color: tomato;
+}
+.cat2{
+    background-color: purple;
+}
+.cat3{
+    background-color: magenta;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.catagories h1{
+    font-size: 30px;
+    color: white;
+    
+}
+.catagories img{
+    width: 100px;
+}
+.shoe{
+    color: #FF136F;
+}
+
+.card{
+    border: 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+}
+.card1{
+    border: none;
+    background-color: white;
+}
+
+.bg-light{
+    background-color: green;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    color:gray;
+}
